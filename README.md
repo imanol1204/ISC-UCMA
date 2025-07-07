@@ -1,4 +1,4 @@
-#Imanol S. Cruz 👨‍💻
+## Imanol S. Cruz 👨‍💻
 
 Equipo kakashi, desarrollador en proceso | tengo 20 | imanolsanchez@ucma.edu.mx 
 
